@@ -1,0 +1,107 @@
+<VAST version="2.0">
+<Ad id="AdoTube">
+<InLine>
+<AdSystem version="3.0">AdoTube</AdSystem>
+<AdTitle>
+<![CDATA[ AdoTube VAST 2.0 Video Ad. ]]>
+</AdTitle>
+<Error>
+<![CDATA[
+http://fbstats.adotube.com/stat_collector.php?cam=VAST_Tags_Errors&index=MDID:5725356&a=AS:384691
+]]>
+</Error>
+<Impression>
+<![CDATA[
+http://a.tribalfusion.com/play?clickID=armQRw4srUXFQAU6Tq46YeQmnJ3HBo1HBKmH6M3m3Y5s7bUGBdUcZbgS63wUtU3TUJY3rPmUqYqVqQiQTBJRGJZbQrZamRH7aUcYR2Uuxmtqr0qyp2dYBPGrG46MZaoHXtVWJeXbU8XbF90TqtPbQGWUYSVHJ4nFQrQU7mYEMn3TJa4EQXnEjD1bBbUHjVoAfwqEN1uT&redirect=
+]]>
+</Impression>
+<Impression>
+<![CDATA[
+http://a.tribalfusion.com/insights/impression?clientID=662183&campaign=5885865&mediaSource=ADO&creative=1x10&ord=75147623&event=Imp&custom1=&custom2=version:2;buyID:10855502;mediaID:5885865;ord:75147623;td:;adspaceId:384691&custom3=dm:;pbp:0.01;pwp:$WINNING_PRICE;awp:&custom4=ad:
+]]>
+</Impression>
+<Creatives>
+<Creative id="5725356">
+<Linear>
+<Duration>00:00:30</Duration>
+<TrackingEvents>
+<Tracking event="start">
+<![CDATA[
+http://a.tribalfusion.com/insights/impression?clientID=662183&campaign=5885865&mediaSource=ADO&creative=1x10&ord=75147623&event=0pc&custom1=videoLabel:Video1;videoName:Video1&custom2=version:2;buyID:10855502;mediaID:5885865;ord:75147623;td:;adspaceId:384691&custom3=dm:&custom4=ad:
+]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[
+http://a.tribalfusion.com/insights/impression?clientID=662183&campaign=5885865&mediaSource=ADO&creative=1x10&ord=75147623&event=25pc&custom1=videoLabel:Video1;videoName:Video1&custom2=version:2;buyID:10855502;mediaID:5885865;ord:75147623;td:;adspaceId:384691&custom3=dm:&custom4=ad:
+]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[
+http://a.tribalfusion.com/insights/impression?clientID=662183&campaign=5885865&mediaSource=ADO&creative=1x10&ord=75147623&event=50pc&custom1=videoLabel:Video1;videoName:Video1&custom2=version:2;buyID:10855502;mediaID:5885865;ord:75147623;td:;adspaceId:384691&custom3=dm:&custom4=ad:
+]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[
+http://a.tribalfusion.com/insights/impression?clientID=662183&campaign=5885865&mediaSource=ADO&creative=1x10&ord=75147623&event=75pc&custom1=videoLabel:Video1;videoName:Video1&custom2=version:2;buyID:10855502;mediaID:5885865;ord:75147623;td:;adspaceId:384691&custom3=dm:&custom4=ad:
+]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[
+http://a.tribalfusion.com/insights/impression?clientID=662183&campaign=5885865&mediaSource=ADO&creative=1x10&ord=75147623&event=100pc&custom1=videoLabel:Video1;videoName:Video1&custom2=version:2;buyID:10855502;mediaID:5885865;ord:75147623;td:;adspaceId:384691&custom3=dm:&custom4=ad:
+]]>
+</Tracking>
+<Tracking event="mute">
+<![CDATA[
+http://a.tribalfusion.com/insights/impression?clientID=662183&campaign=5885865&mediaSource=ADO&creative=1x10&ord=75147623&event=Mute&custom1=&custom2=version:2;buyID:10855502;mediaID:5885865;ord:75147623;td:;adspaceId:384691&custom3=dm:&custom4=ad:
+]]>
+</Tracking>
+<Tracking event="unmute">
+<![CDATA[
+http://a.tribalfusion.com/insights/impression?clientID=662183&campaign=5885865&mediaSource=ADO&creative=1x10&ord=75147623&event=Unmute&custom1=&custom2=version:2;buyID:10855502;mediaID:5885865;ord:75147623;td:;adspaceId:384691&custom3=dm:&custom4=ad:
+]]>
+</Tracking>
+<Tracking event="fullscreen">
+<![CDATA[
+http://a.tribalfusion.com/insights/impression?clientID=662183&campaign=5885865&mediaSource=ADO&creative=1x10&ord=75147623&event=FSOn&custom1=&custom2=version:2;buyID:10855502;mediaID:5885865;ord:75147623;td:;adspaceId:384691&custom3=dm:&custom4=ad:
+]]>
+</Tracking>
+</TrackingEvents>
+<VideoClicks>
+<ClickThrough>
+<![CDATA[ http://www.adotube.com ]]>
+</ClickThrough>
+<ClickTracking>
+<![CDATA[
+http://a.tribalfusion.com/h.click/armQRw4srUXFQAU6Tq46YeQmnJ3HBo1HBKmH6M3m3Y5s7bUGBdUcZbgS63wUtU3TUJY3rPmUqYqVqQiQTBJRGJZbQrZamRH7aUcYR2Uuxmtqr0qyp2dYBPGrG46MZaoHXtVWJeXbU8XbF90TqtPbQGWUYSVHJ4nFQrQU7mYEMn3TJa4EQXnEjD1bBbUHjVoAfwqEN1uT/
+]]>
+</ClickTracking>
+</VideoClicks>
+<MediaFiles>
+<MediaFile delivery="progressive" scalable="true" maintainAspectRatio="true" type="video/mp4" width="640" height="360" bitrate="384">
+<![CDATA[
+https://d3h8av4a0dy1g.cloudfront.net/request/25288/spr5_video1_384kbps.mp4
+]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+<Creative>
+<Linear>
+<VideoClicks>
+<ClickTracking>
+<![CDATA[
+http://myTrackingURL/wrapper/click
+]]>
+</ClickTracking>
+</VideoClicks>
+</Linear>
+</Creative>
+<Creative AdID="602833-NonLinearTracking">
+<NonLinearAds>
+<TrackingEvents></TrackingEvents>
+</NonLinearAds>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+</VAST>
